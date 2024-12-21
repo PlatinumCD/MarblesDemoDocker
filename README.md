@@ -1,4 +1,4 @@
-# MarblesDemo
+# SST Docker Demo
 
 This project is a demonstration of the SST (Structural Simulation Toolkit) simulator using a Docker container. The Makefile provided allows you to build, run, and clean up the Docker image for the simulation.
 
