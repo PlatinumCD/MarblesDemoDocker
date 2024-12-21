@@ -4,15 +4,15 @@ This project is a demonstration of the SST (Structural Simulation Toolkit) simul
 
 This image uses the following repositories:
   - **SST Core**
-    - **Repo**: `https://github.com/sstsimulator/sst-core.git`
+    - **Repo**: [https://github.com/sstsimulator/sst-core.git](https://github.com/sstsimulator/sst-core.git)
     - **Branch**: `v14.0.0_Final`
 
   - **SST Elements**
-    - **Repo**: `https://github.com/PlatinumCD/lightweight-sst-elements`
+    - **Repo**: [https://github.com/PlatinumCD/lightweight-sst-elements](https://github.com/PlatinumCD/lightweight-sst-elements)
     - **Branch**: `master`
 
   - **Custom SST Element**
-    - **Repo**: `https://github.com/PlatinumCD/MarblesDemo.git`
+    - **Repo**: [https://github.com/PlatinumCD/MarblesDemo.git](https://github.com/PlatinumCD/MarblesDemo.git)
     - **Branch**: `master`
 
 ## Makefile Targets
